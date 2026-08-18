@@ -1,1 +1,1 @@
-# Thermography-report-
+# Thermography-report
